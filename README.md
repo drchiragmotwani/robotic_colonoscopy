@@ -3,3 +3,5 @@
 
 ## Video Demo
 https://github.com/drchiragmotwani/robotic_colonoscopy/assets/157987275/2e5aa5c1-65fe-42b8-9202-33099080497c
+
+Watch in 720p: https://youtu.be/g4gefzgm-MQ?si=yTno4xV9DnVpogsn
